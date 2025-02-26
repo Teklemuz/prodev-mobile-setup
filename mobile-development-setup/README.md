@@ -32,24 +32,17 @@ Before you begin, make sure you have the following tools installed:
 5. **Test the App**:
    - Your app should now run on your physical device. Any code changes you make in VS Code will be reflected live on the device.
 
-6. Challenges Faced & Solutions
+6. **Challenges Faced & Solutions**:
+1. Problem: I faced issues while installing Expo Go due to outdated app versions.
+Solution: Use a VPN or sideload the APK for Android if necessary.
 
-1. Installation Issues on Mobile Devices
-
-Problem: I faced issues while installing Expo Go due to regional restrictions or outdated app versions.
-
-Solution: Use a VPN or sideload the APK for Android if necessary. For iOS, ensure you are logged into the correct App Store region.
-
-2. Node.js Version Conflicts
+3. Node.js Version Conflicts
 
 Problem: Older Node.js versions may cause compatibility issues with Expo CLI.
 
 Solution: Use the latest LTS version of Node.js. Check your version using:
 
 node -v
-
-Upgrade if necessary via nvm (recommended) or directly from Node.js.
-     
 
 ## Troubleshooting
 
