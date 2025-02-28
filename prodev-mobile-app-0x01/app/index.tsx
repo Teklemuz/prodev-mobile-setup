@@ -4,9 +4,9 @@ import { StyleSheet, Text, View } from 'react-native';
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "#90caf9",
-    flex: 1, 
+    flex: 1,
     justifyContent: 'center', 
-    alignItems: 'center', 
+    alignItems: 'center',
   },
   largeText: {
     fontSize: 30,
@@ -47,8 +47,8 @@ export default function App() {
 
         {/* Additional Text Components */}
         <Text style={styles.largeText}>Learning React Native is fun!</Text>
-        <Text style={styles.mediumText}>Understanding components and state is key</Text>
-        <Text style={styles.smallText}>Practice makes perfect</Text>
+        <Text style={styles.mediumText}>Mastering components and state is essential</Text>
+        <Text style={styles.smallText}>Practice makes you better every day</Text>
       </View>
     </View>
   );
