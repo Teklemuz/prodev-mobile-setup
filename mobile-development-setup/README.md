@@ -1,4 +1,4 @@
-# Expo Go Setup for Mobile Development
+# Mobile-development-setup
 
 ## Prerequisites
 
